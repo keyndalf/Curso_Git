@@ -74,3 +74,18 @@ Subir las etiquetas al repositorio remoto:
 ## Clonar un repositorio remoto:
 
 `git clone enlaceCodeDondeEstaElRepositorio`
+
+---
+## Como crear ramas:
+
+`git branch NombreRama`
+
+---
+## Como ver las ramas disponibles:
+
+`git branch`
+
+---
+## Como cambiar de rama:
+
+`git checkout NombreRama`
