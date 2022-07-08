@@ -104,4 +104,6 @@ Este proceso se debe hacer desde la rama principal:
 
 `git branch -d NombreRama`
 
+<!-- Agrego un comentario desde el branch rama-->
+
 <!-- Me encargo de añadir información a la hoja de comandos desde la rama keyber, veremos si somos capaces de hacer un merge desde la rama keyber -->
