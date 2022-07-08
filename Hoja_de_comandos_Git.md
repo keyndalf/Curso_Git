@@ -69,3 +69,8 @@ Nombre de la etiqueta + -m + Descripción de la etiqueta:
 Subir las etiquetas al repositorio remoto:
 
 `git push --tags`
+
+---
+## Clonar un repositorio remoto:
+
+`git clone enlaceCodeDondeEstaElRepositorio`
