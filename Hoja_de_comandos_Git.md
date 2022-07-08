@@ -59,3 +59,9 @@ Añadir el repositorio local a Github:
 
 `git pull`
 
+---
+## Agregar etiquetas:
+
+Nombre de la etiqueta + Descripción de la etiqueta:
+
+`git tag 08-07-2022v1 "Versión 1 del proyecto."`
