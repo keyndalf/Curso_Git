@@ -50,4 +50,12 @@ Añadir el repositorio local a Github:
 `git remote add origin enlaceDelRepositorio`
 
 ---
-## 
+## Para enviar lo que está en el repositorio local al remoto:
+
+`git push`
+
+---
+## Para traer archivos del repositorio remoto al local:
+
+`git pull`
+
