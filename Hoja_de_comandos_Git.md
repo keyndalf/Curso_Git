@@ -89,3 +89,10 @@ Subir las etiquetas al repositorio remoto:
 ## Como cambiar de rama:
 
 `git checkout NombreRama`
+
+---
+## Unir ramas:
+
+Este proceso se debe hacer desde la rama principal:
+
+`git merge NombreRamaQueQuieroUnir`
