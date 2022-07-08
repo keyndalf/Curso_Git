@@ -65,3 +65,7 @@ Añadir el repositorio local a Github:
 Nombre de la etiqueta + -m + Descripción de la etiqueta:
 
 `git tag 08-07-2022v1 -m "Versión 1 del proyecto."`
+
+Subir las etiquetas al repositorio remoto:
+
+`git push --tags`
