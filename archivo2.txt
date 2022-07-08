@@ -8,4 +8,8 @@ git branch NombreRama
 
 Moverme a una rama:
 
+Cuando me muevo a una rama solo puedo ver las cosas que están en
+esa rama, el contenido de otras ramas no lo puedo ver, a menos que
+una la información.
+
 git checkout NombreRama

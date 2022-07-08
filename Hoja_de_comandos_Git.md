@@ -74,3 +74,15 @@ Subir las etiquetas al repositorio remoto:
 ## Clonar un repositorio remoto:
 
 `git clone enlaceCodeDondeEstaElRepositorio`
+
+---
+## Crear una rama:
+
+`git branch NombreRama`
+
+---
+## Moverte a una rama:
+
+Notar que los cambios hechos en una rama no se ven reflejados en las distintas ramas, solo podemos ver el estado de los archivos al momento de la creación de la rama, a menos que se actualice la información haciendo una unión de ramas:
+
+`git checkout NombreRama`
