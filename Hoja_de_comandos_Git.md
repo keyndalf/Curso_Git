@@ -9,7 +9,7 @@ Se posiciona la consola de comandos en la ruta donde está la carpeta a la que q
 `git init`
 
 ---
-## Agregar los archivos al stage área para prepararlos a ser subidos:
+## Agregar los archivos al staging area (Árena de preparación) para prepararlos a ser subidos:
 
 Agregar todos los archivos:
 
@@ -22,7 +22,23 @@ Agregar un archivo individualmente:
 ---
 ## Hacer un commit:
 
-git commit -m "Identificador del commit"
+Después de agregar los archivos con add:
+
+`git commit -m "Descripción del commit"`
+
+Ahora haciendo el commit y el add en una sola instrucción:
+
+`git commit -am "Descripción del commit"`
 
 ---
-##
+## Mostrar el estado de los archivos:
+
+`git status -s`
+
+---
+## Retornar el estado de los archivos hasta un commit anterior:
+
+Ojo: esto regresa todos los archivos hasta un punto previo, así que asegurarse de tener respaldada la información D:
+
+`git reset --hard codigoDelCommit`
+

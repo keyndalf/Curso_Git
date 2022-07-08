@@ -240,10 +240,3 @@ def suma(a, b):
 ## El caracter de escape \:
 
 Se usa al igual que el caracter de escape en una cadena de texto de Python. \*texto\* notar resalta el text en negritas.
-
----
-## Diccionarios:
-
-Se trabajan en combinaciones término-definición, de la siguiente manera:
-
-Término : Definición  
