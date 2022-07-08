@@ -1,0 +1,3 @@
+Archivo.txt
+
+Creo un archivo de texto en la carpeta principal del proyecto:
