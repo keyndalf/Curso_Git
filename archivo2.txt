@@ -1,0 +1,11 @@
+# archivo2.txt
+
+Creo un archivo txt para trabajarlo en otra rama:
+
+Crear ramas:
+
+git branch NombreRama
+
+Moverme a una rama:
+
+git checkout NombreRama
