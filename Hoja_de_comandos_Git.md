@@ -42,3 +42,12 @@ Ojo: esto regresa todos los archivos hasta un punto previo, así que asegurarse 
 
 `git reset --hard codigoDelCommit`
 
+---
+## Subir un repositorio a Github:
+
+Añadir el repositorio local a Github:
+
+`git remote add origin enlaceDelRepositorio`
+
+---
+## 
