@@ -98,3 +98,9 @@ Notar que los cambios hechos en una rama no se ven reflejados en las distintas r
 Este proceso se debe hacer desde la rama principal:
 
 `git merge NombreRamaQueQuieroUnir`
+
+---
+## Eliminar una rama:
+
+`git branch -d NombreRama`
+
