@@ -107,3 +107,12 @@ Este proceso se debe hacer desde la rama principal:
 <!-- Agrego un comentario desde el branch rama-->
 
 <!-- Me encargo de añadir información a la hoja de comandos desde la rama keyber, veremos si somos capaces de hacer un merge desde la rama keyber -->
+
+---
+## Crear una copia en Github (fork) para posteriormente hacer una copia local:
+
+El pull request sirve para crear una copia en Github de u repositorio público, cosa que podemos hacer nuestros propios commits y si en un futuro queremos sugerir cambios al proyecto podemos hacer las sugerencias con un pull request.
+
+El fork se puede hacer desde la misma página de Github.
+
+El pull request también se hace desde github.
